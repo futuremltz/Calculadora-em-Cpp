@@ -6,6 +6,16 @@ Primeiro projeto do repositório, feito para praticar os fundamentos de C++.
 
 ---
 
+## 🎬 Demonstração
+
+<p align="center">
+  <img src="assets/calculadora-cpp-demo.gif" alt="Multiplicação, divisão por zero tratada e divisão com resultado decimal" />
+</p>
+
+<p align="center"><i>Multiplicação, divisão por zero tratada e divisão com resultado decimal.</i></p>
+
+---
+
 ## ✨ Funcionalidades
 
 - **Soma**, **subtração**, **multiplicação** e **divisão**
